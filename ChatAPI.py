@@ -1,6 +1,6 @@
-from zhipuai import ZhipuAI
+﻿from zhipuai import ZhipuAI
 
-client = ZhipuAI(api_key="3490627a6b2940c7862f68b3773e5aab.zKaeZi38w15hqPue")  # 替换为你自己的 key
+client = ZhipuAI(api_key="your_key")  # 替换为你自己的 key
 
 def main():
     print("💬 欢迎使用 ZhipuAI 对话系统，输入 'exit' 退出。\n")
