@@ -1,0 +1,29 @@
+# 忽略模型文件
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+
+# 忽略数据集和大文件
+*.zip
+*.tar
+*.rar
+*.7z
+*.csv
+*.json
+*.npy
+*.npz
+
+# 忽略 Python 缓存和日志
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.swp
+
+# 忽略虚拟环境
+.venv/
+venv/
+env/
